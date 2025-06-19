@@ -11,6 +11,10 @@
 [Uu]nity/[Uu]ser[Ss]ettings/
 [Uu]nity/.idea
 
+# Temporary auto-generated Unity AI Files
+[Uu]nity/[Gg]enerated[Aa]ssets/
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -76,3 +80,4 @@ crashlytics-build.properties
 Unity/.idea/.idea.Unity/.idea/projectSettingsUpdater.xml
 /Unity/Assets/MuseAnimateSessions
 Unity/Assets/MuseAnimateSessions.meta
+

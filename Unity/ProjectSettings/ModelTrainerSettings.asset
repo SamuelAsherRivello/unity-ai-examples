@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79f47f212eb464799c614e006f16d49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.AI.ModelTrainer::Unity.AI.ModelTrainer.Services.ModelTrainerLocalSettings
+  m_Session:
+    userModels:
+      m_Items: []
+    selectedUserModelId: 
+    baseModels:
+      m_Items:
+      - id: flux
+        name: Flux
+        settings:
+          m_Items:
+          - name: automaticTrainingSteps
+            displayName: Automatic Training Steps
+            description: Automatically determine the number of training steps based
+              on the training data.
+            type: 0
+            defaultValue: true
+          - name: totalTrainingSteps
+            displayName: Total Training Steps
+            description: The total number of training steps to run.
+            type: 4
+            defaultValue: 10
+          - name: learningRate
+            displayName: Learning Rate
+            description: The learning rate for the model.
+            type: 8
+            defaultValue: 0.001
+          - name: Optimize Portrait
+            displayName: Optimize Portrait
+            description: Optimize the model for portrait images.
+            type: 0
+            defaultValue: false
+      - id: sdxl
+        name: SDXL
+        settings:
+          m_Items:
+          - name: automaticTrainingSteps
+            displayName: Automatic Training Steps
+            description: Automatically determine the number of training steps based
+              on the training data.
+            type: 0
+            defaultValue: true
+          - name: totalTrainingSteps
+            displayName: Total Training Steps
+            description: The total number of training steps to run.
+            type: 4
+            defaultValue: 10
+          - name: learningRate
+            displayName: Learning Rate
+            description: The learning rate for the model.
+            type: 8
+            defaultValue: 0.001
+          - name: textEncoderTrainingRatio
+            displayName: Text Encoder Training Ratio
+            description: The ratio of training steps to run on the text encoder.
+            type: 8
+            defaultValue: 0.5
+          - name: imageEncoderLearningRate
+            displayName: Image Encoder Learning Rate
+            description: The rate of learning to run on the image encoder.
+            type: 8
+            defaultValue: 0.5
+      - id: bria
+        name: Bria
+        settings:
+          m_Items:
+          - name: automaticTrainingSteps
+            displayName: Automatic Training Steps
+            description: Automatically determine the number of training steps based
+              on the training data.
+            type: 0
+            defaultValue: true
+          - name: totalTrainingSteps
+            displayName: Total Training Steps
+            description: The total number of training steps to run.
+            type: 4
+            defaultValue: 10
+          - name: learningRate
+            displayName: Learning Rate
+            description: The learning rate for the model.
+            type: 8
+            defaultValue: 0.001
+          - name: Optimize Portrait
+            displayName: Optimize Portrait
+            description: Optimize the model for portrait images.
+            type: 0
+            defaultValue: false
+    searchFilter: 
+    tags:
+      m_Items: []

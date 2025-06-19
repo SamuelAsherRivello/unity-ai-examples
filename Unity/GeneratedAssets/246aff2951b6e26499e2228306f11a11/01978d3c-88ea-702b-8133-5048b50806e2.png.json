@@ -1,0 +1,19 @@
+{
+    "asset": "246aff2951b6e26499e2228306f11a11",
+    "fileName": "01978d3c-88ea-702b-8133-5048b50806e2.png",
+    "prompt": "a single building brick with rounded edges and transparent background",
+    "negativePrompt": "",
+    "model": "105d7d41-843c-4435-96a5-5f6624275470",
+    "customSeed": 1,
+    "w3CTraceId": "74d0358c039fce18f4e1b569f2880778",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

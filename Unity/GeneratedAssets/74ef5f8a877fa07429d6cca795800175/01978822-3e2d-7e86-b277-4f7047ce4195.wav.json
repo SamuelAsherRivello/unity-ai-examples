@@ -1,0 +1,12 @@
+{
+    "asset": "74ef5f8a877fa07429d6cca795800175",
+    "fileName": "01978822-3e2d-7e86-b277-4f7047ce4195.wav",
+    "prompt": "brick hitting wood one time",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "customSeed": -1,
+    "w3CTraceId": "4a984e862f5359094da73340ef1c4868",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}

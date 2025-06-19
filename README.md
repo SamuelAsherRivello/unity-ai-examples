@@ -1,7 +1,7 @@
 
-# Unity's Muse AI Features
+# Unity's "Unity AI" Features
 
-This repo is a Demo of Unity's Muse AI Features. Subscription or free trial may be required.
+This repo is a Demo of Unity's AI Features. Subscription or free trial may be required.
 
 
 This **Unity Project** is featured in the following <a href="https://youtube.com/playlist?list=PL5domiITryHgsO4Xsgb0SnuS7ql2kpc9c&si=yo3tj0FT21S4zNnU">YouTube video playlist</a>.
@@ -44,8 +44,8 @@ Created By
 =============
 
 - Samuel Asher Rivello 
-- Over 25 years XP with game development (2024)
-- Over 11 years XP with Unity (2024)
+- Over 25 years XP with game development (2025)
+- Over 11 years XP with Unity (2025)
 
 Contact
 =============

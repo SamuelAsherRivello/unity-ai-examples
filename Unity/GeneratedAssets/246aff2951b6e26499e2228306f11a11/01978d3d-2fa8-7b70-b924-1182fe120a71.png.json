@@ -1,0 +1,19 @@
+{
+    "asset": "246aff2951b6e26499e2228306f11a11",
+    "fileName": "01978d3d-2fa8-7b70-b924-1182fe120a71.png",
+    "prompt": "one single red brick from a front view with transparent background",
+    "negativePrompt": "",
+    "model": "105d7d41-843c-4435-96a5-5f6624275470",
+    "customSeed": 1,
+    "w3CTraceId": "98aca2c0884800afddad8eea635ad6c8",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
